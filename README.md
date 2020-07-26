@@ -1,6 +1,6 @@
 :computer: `Programmer`
 
-## Hello! My name is Prakash Pun from Nepal. 
+## Hello! My name is Prakash Pun. 
 ### Skills
 ![JAVA](https://img.shields.io/badge/-JAVA-blue) 
 ![PYTHON](https://img.shields.io/badge/-PYTHON-brightgreen)
