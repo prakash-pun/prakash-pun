@@ -1,6 +1,6 @@
 :computer: `Programmer`
  
-### Hi there 👋, I'm Prakash Pun. I'm a django developer. Welcome to my gh page! <br>
+### Hi there 👋, I'm Prakash Pun. Welcome to my gh page! <br>
 
 #### Languages:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
