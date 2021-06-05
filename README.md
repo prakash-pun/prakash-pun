@@ -11,7 +11,7 @@
 ### Framework:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
  
-🌱 *Currently Learning*: 🤓
+🌱 *Currently Learning*: React JS🤓
 
 📫 How to reach me: <br>
 [![Gmail](https://img.shields.io/badge/%20-Send%20Email-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:poonprakash22@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub.)
