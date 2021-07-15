@@ -18,7 +18,7 @@
 </p>
 
 
-🌱 *Currently Learning*: <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" title="Git" width="18" height="18"/> React JS🤓
+🌱 *Currently Learning*: <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="18" height="18"/> Node.js🤓
 
 📫 How to reach me:
 
