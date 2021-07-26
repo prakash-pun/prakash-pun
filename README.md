@@ -27,4 +27,4 @@
 
 Resume:  [Prakash Pun's Resume](https://github.com/prakash-pun7) (PDF download)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-pun7&layout=compact&hide=html" alt="abuanwar072" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-pun7&layout=compact&hide=html" alt="prakash-pun7" /></p>
