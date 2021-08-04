@@ -18,7 +18,8 @@
 </p>
 
 
-🌱 *Currently Learning*: <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="18" height="18"/> Node.js🤓
+🌱 *Currently Learning*: <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="19" height="19"/> Node.js |
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="19" height="19"/> GraphQL🤓
 
 📫 How to reach me:
 
