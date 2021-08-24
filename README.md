@@ -1,6 +1,6 @@
 :computer: `Programmer` `Developer`
 
-### Hi there 👋, I'm Prakash Pun. Welcome to my gh page! <br>
+## Hi there <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px">, I'm Prakash Pun. Welcome to my gh page! <br>
 
 ### Languages and Tools:
 
