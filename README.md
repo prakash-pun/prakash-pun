@@ -28,5 +28,4 @@
 
 Resume:  [Prakash Pun's Resume](https://github.com/prakash-pun7) (PDF download)
 
-![](https://komarev.com/ghpvc/?username=prakash-pun7&color=blue&style=plastic)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-pun7&layout=compact&hide=html" alt="prakash-pun7" /></p>
