@@ -1,4 +1,4 @@
-:computer: `Programmer` `Developer`
+:computer: `Programmer` `Software Developer`
 
 ## Hi there <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px">, I'm Prakash Pun. Welcome to my gh page! <br>
 
