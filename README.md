@@ -1,6 +1,9 @@
 :computer: `Programmer` `Software Developer`
 
-## Hi there <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px">, I'm Prakash Pun. Welcome to my gh page! <br>
+## Hi there <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px">, I'm Prakash Pun.<br>
+
+🌱 *Currently Learning*: <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="19" height="19"/> Node.js |
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="19" height="19"/> GraphQL🤓
 
 ### Languages and Tools:
 
@@ -17,9 +20,6 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="javascript" title="JavaScript" width="35" height="35"/>  
 </p>
 
-
-🌱 *Currently Learning*: <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="19" height="19"/> Node.js |
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="19" height="19"/> GraphQL🤓
 
 📫 How to reach me:
 
