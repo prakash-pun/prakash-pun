@@ -28,4 +28,4 @@
 
 Resume:  [Prakash Pun's Resume](https://github.com/prakash-pun) (PDF download)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-pun&layout=compact&hide=html" alt="prakash-pun" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-pun&layout=compact&hide=html&langs_count=10" alt="prakash-pun" /></p>
