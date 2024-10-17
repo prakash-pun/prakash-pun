@@ -17,14 +17,13 @@ I'm **Prakash Pun**, a Software Engineer from Nepal 🇳🇵, currently based in
 - 🎶 Jamming out to music while coding.
 
 ### Goals 🎯
-- 💡 Continue developing impactful, AI-driven products.
-- 🌍 Expand IndieHyve’s reach and create cutting-edge solutions.
-- 🧠 Constantly learn and grow in AI and software engineering.
-- 🤝 Build meaningful connections within the tech community.
-- 🔌 Dive into **IoT** and integrate it into future projects.
-- ✏️ Master **sketching, drawing, illustration**, and **animation**.
-- 🖌️ Level up in **Blender** and expand expertise in 3D **design**.
-- 🎥 Learn the art of animation and motion design to bring ideas to life.
+- [ ] 🌍 Expand IndieHyve’s reach and create cutting-edge solutions.
+- [ ] 🧠 Constantly learn develop, and grow in AI and software engineering [AI-driven products].
+- [ ] 🤝 Build meaningful connections within the tech community.
+- [ ] 🔌 Dive into **IoT** and integrate it into future projects.
+- [ ] ✏️ Master **sketching, drawing, illustration**, and **animation**.
+- [ ] 🖌️ Level up in **Blender** and expand expertise in 3D **design**.
+- [ ] 🎥 Learn the art of animation and motion design to bring ideas to life.
 
 ### Fun Facts:
 - 🎮 Always tinkering with new tools and keeping up with tech trends.
