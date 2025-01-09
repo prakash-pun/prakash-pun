@@ -12,7 +12,7 @@ I'm **Prakash Pun**, a Software Engineer from Nepal 🇳🇵, currently based in
 - 🎮 Exploring the latest tech trends and tinkering with new tools.
 - 🚴‍♂️ Hiking, trekking, and staying active in the great outdoors.
 - 📚 Visiting libraries, reading books, and diving into podcasts.
-- 🎶 Jamming out to music while coding.
+- 🎶 Music
 
 ### Fun Facts:
 - 🎮 Always tinkering with new tools and keeping up with tech trends.
