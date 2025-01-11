@@ -4,8 +4,8 @@
 I'm **Prakash Pun**, a Software Engineer from Nepal 🇳🇵, currently based in Canada 🇨🇦. I **love** building cool things and geeking out over the latest tech trends.
 
 ### What I Do 🚀
-- 🛠️ **Building innovative solutions** with cutting-edge technologies.
-- 🧑‍💻 Co-founded [**IndieHyve**](https://indiehyve.com), where we're whipping up some **awesome products** that are making waves!
+- 🛠️ Love **Building** Stuffs
+- 🧑‍💻 [**IndieHyve**](https://indiehyve.com)
 - 🤖 Currently diving into the fascinating world of [**AI**](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence), eager to learn and make an impact in this fast-paced field.
 
 ### Hobbies 🎨
